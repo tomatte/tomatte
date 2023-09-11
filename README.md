@@ -14,7 +14,7 @@ Programming for me is like a never-ending puzzle game very fun (and sometimes ve
   
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=tomatte&show_icons=true&theme=dracula">
 
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoFaggion&show_icons=true&theme=dracula&layout=compact">
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomatte&show_icons=true&theme=dracula&layout=compact">
 </div>
 
 ##
