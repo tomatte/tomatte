@@ -7,6 +7,7 @@ Programming for me is like a never-ending puzzle game very fun (and sometimes ve
 - 📫 How to reach me:
   . Discord: king_tomatte
 - ⚡ Fun fact: I like tomatoes 🍅🍅🍅
+- 🇧🇷 From Brazil and from MG <3
 - 🎮 The game that I loooove to play: [Soldat](https://soldat.pl/en/)
 
 ##
