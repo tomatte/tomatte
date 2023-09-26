@@ -5,10 +5,13 @@ Programming for me is like a never-ending puzzle game very fun (and sometimes ve
 
 - 🌱 I’m currently learning C, C++, JS/TS, NestJS and more.
 - 📫 How to reach me:
-  . Discord: king_tomatte
+  - discord: @king_tomatte
+  - email: tomatte.dev@gmail.com
+  - twitter: [king_tomatte](https://twitter.com/king_tomatte)
 - ⚡ Fun fact: I like tomatoes 🍅🍅🍅
 - 🇧🇷 From Brazil and from MG <3
 - 🎮 The game that I loooove to play: [Soldat](https://soldat.pl/en/)
+- 🌐 My blog: www.tomatte.dev
 
 ##
 <div style="display: inline_block">
